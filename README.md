@@ -6,7 +6,7 @@ I started with the basics (`Main.kt`) and then moved into classes, objects, and 
 ---
 
 ## 📂 Project Structure
-/src
+KotlinLearn/src
 
 Main.kt # Basics: variables, loops, conditions
 
