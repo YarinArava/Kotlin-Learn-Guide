@@ -37,3 +37,4 @@ NOTES.md # Full detailed learning notes
 3. Run Main.kt → basics
 4. Run Classes&Objects.kt → OOP examples
 
+👉 For my full detailed learning notes, check out [NOTES.md](NOTES.md).
